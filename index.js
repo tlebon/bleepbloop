@@ -1,1 +1,5 @@
-console.log( "branches are fun")
+function coffeefee() {
+    return true
+}
+
+console.log(coffeefee())
